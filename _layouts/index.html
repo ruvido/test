@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<!-- ====================================== -->
+{% if site.landing == "index" %}
+
+<section class="index">
+  {% for post in site.posts limit:site.post-per-page %}
+    <h2 class="catchy-headline">
+    <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
+
+    <section class="small details block">
+      by <a href="{{site.baseurl}}/about">{{post.author | capitalize}}</a>,
+      <time>{{post.date | date: "%b %d %Y"}}</time>
+    </section>
+
+    <section class="small summary">{{post.summary | truncatewords: 20}}</section>
+
+    <a class="small follow-up block" href="{{site.baseurl}}{{post.url}}">
+      {{site.localization.read-more}} <i class="fa fa-chevron-right" aria-hidden="true"></i>
+    </a>
+
+  {% endfor %}
+</section>
+
+
+  <!-- ====================================== -->
+  {% elsif site.landing == "single" %}
+
+  This is the last post
+
+  <!-- ====================================== -->
+  {% elsif site.landing == "page" %}
+
+  This is a page
+
+  {% endif %}
