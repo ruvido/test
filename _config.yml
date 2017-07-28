@@ -13,3 +13,9 @@ defaults:
     path: ''
   values:
     layout: post
+localization:
+  read-more: Read more
+  see-all-posts: See all posts
+markdown: kramdown
+archive: archive
+favicon: images/logo/logo-64x64.png
