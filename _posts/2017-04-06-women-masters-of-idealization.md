@@ -1,5 +1,6 @@
 ---
 title: Women, masters of idealization - You are not who you used to be
+date: 2017-04-06 00:00:00 Z
 permalink: you-are-not-who-you-used-to-be
 author: Alessandra
 summary: When we women make movies in our head instead of loving the man next to us
