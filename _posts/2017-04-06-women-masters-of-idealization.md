@@ -1,14 +1,7 @@
 ---
-title: "Women, masters of idealization You are not who you used to be"
-permalink: you-are-not-who-you-used-to-be
-author: Alessandra
-summary: When we women make movies in our head instead of loving the man next to us.
-image: "/images/posts/women-masters-of-idealization.jpg"
-id: 15
-#suggested:
-#- 10
-#- 11
-#- 7
+title: Post Test
+permalink: test
+layout: post
 ---
 
 One thing I'm very proud of is to be able to understand and speak different languages, even if I haven’t succeeded in understanding the male language yet (but I'm sure I'll make it sooner or later!). We have been living around Europe for already six years: first in Switzerland, then in France and now in Germany. A few days ago, while I was walking in Paris, I overheard a conversation between two lovers in a rocky relationship.. Every third word, she was repeating this sentence: " Tu n’est pas plus comme avant!", "Tu n'étais pas comme ça avant!" (...You are not who you used to be, you weren’t like this before). Hearing her words I realized two things: first, we women are all alike, from Paris to Palermo, from New York to Freiburg; second, I think I could start writing an encyclopedia universally accepted to be titled "The female universe, to make no mistake always play the shopping card", of at least a million pages only in the first volume.
