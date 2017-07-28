@@ -19,3 +19,16 @@ localization:
 markdown: kramdown
 archive: archive
 favicon: images/logo/logo-64x64.png
+header:
+  logo-img: images/logo/logo.png
+  title-img: images/logo/5loaves2fish.png
+  subtitle: When you want more
+facebook:
+  app_id: 480155522043231
+  page: https://www.facebook.com/5loaves2fish.blog
+  image:
+footer:
+  script-note: Crafted with <i class='fa fa-heart'></i> by <a href='http://5p2p.it'>5pani2pesci</a><br>Don't
+    reproduce without permission.
+google_analytics: UA-39520577-2
+permalink: :title/
