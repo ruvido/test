@@ -8,6 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: post
 localization:
   read-more: Read more
   see-all-posts: See all posts
