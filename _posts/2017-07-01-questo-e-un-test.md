@@ -5,3 +5,5 @@ permalink: test
 ---
 
 Questo è solo un test, ciao a tutti!
+
+E non solo funziona anche con siteleaf!
