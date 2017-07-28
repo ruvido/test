@@ -8,3 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+localization:
+  read-more: Read more
+  see-all-posts: See all posts
+markdown: kramdown
