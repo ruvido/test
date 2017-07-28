@@ -1,7 +1,6 @@
 ---
 title: About us
 permalink: about
-#layout: post
 summary: We are Alessandra and Francesco and we have been married since 2005. We have
   three gorgeous man cubs who remind us every day that every life is called to love.
   We are italian but we have lived in many different countries.
