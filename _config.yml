@@ -31,4 +31,4 @@ footer:
   script-note: Crafted with <i class='fa fa-heart'></i> by <a href='http://5p2p.it'>5pani2pesci</a><br>Don't
     reproduce without permission.
 google_analytics: UA-39520577-2
-permalink: :title
+permalink: /:title/
